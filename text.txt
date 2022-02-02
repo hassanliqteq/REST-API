@@ -1,0 +1,2 @@
+{text: "Hassan Khan", age: 70}
+{text: "Ahmed Khan", age: 60}
